@@ -1,0 +1,59 @@
+body{
+	font-family: Roboto;
+	color: #222222;
+}
+h1 {
+	font-size: 2rem;
+	font-weight: 400;
+	text-align: center;
+	border-bottom: 2px solid #aaaaaa;
+}
+h2 {
+	font-size: 1.5rem;
+	font-weight: 500;
+	border-bottom: 1px solid #aaaaaa;
+}
+div{
+	margin-left: 40px ;
+	margin-right: 40px ;
+	margin-top: 15px ;
+	margin-bottom: 15px ;
+	padding: 15px;
+	background-color: #eeeeee;
+	border-radius: 3px;
+	border: 1px solid  #dddddd;
+	font-size: 0.8rem;
+	font-style: italic;
+
+}
+.blockquote {
+	padding: 15px;
+	background-color: #eeeeee;
+	font-size: 0.8rem;
+	font-style: italic;
+}
+blockquote {
+	padding: 15px;
+	background-color: #eeeeee;
+	border-radius: 3px;
+	border: 1px solid  #dddddd;
+	font-size: 0.8rem;
+	font-style: italic;
+}
+a { 
+	color: #0088ff;
+	text-decoration: none;
+
+  }
+nav {
+	margin-left: 40px ;
+	margin-right: 40px ;
+	margin-top: 15px ;
+	margin-bottom: 15px ;
+	padding: 15px;
+	background-color: #eeeeee;
+	border-radius: 3px;
+	border: 1px solid  #dddddd;
+	font-size: 0.8rem;
+	font-style: italic;
+}
